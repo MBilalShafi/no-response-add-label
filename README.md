@@ -27,7 +27,7 @@ jobs:
   noResponse:
     runs-on: ubuntu-latest
     steps:
-      - uses: MBilalShafi/no-response@v0.0.6
+      - uses: MBilalShafi/no-response-add-label@v0.0.6
         with:
           token: ${{ github.token }}
 ```
@@ -52,7 +52,7 @@ jobs:
   noResponse:
     runs-on: ubuntu-latest
     steps:
-      - uses: MBilalShafi/no-response@v0.0.6
+      - uses: MBilalShafi/no-response-add-label@v0.0.6
         with:
           token: ${{ github.token }}
           # auto close issues with no response from author for 7 days
