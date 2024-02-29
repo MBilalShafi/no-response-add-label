@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright &copy; 2021 [Lee Dohm](https://www.lee-dohm.com)
 Copyright &copy; 2023 [Bilal Shafi](https://BilalShafi.dev)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
